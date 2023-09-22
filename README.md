@@ -21,7 +21,7 @@ Lab) Splunk Investigation 1-4 Solution<br />
 
 
 - <b>Splunk Investigation 1 </b>
-  - [Splunk Investigation 1](http://www.keepandshare.com/doc8/view.php?id=30596&da=y)
+  - [Certification of completion](https://elearning.securityblue.team/public/lab-certificate/ce782684-5289-499d-b475-e3d01249cdea)
  
 Lab) Splunk Investigation 1 Solution
 1. Security Information and Event Monitoring
